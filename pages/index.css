@@ -1,0 +1,12 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/font.css);
+
+@import url(../blocks/body/body.css);
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/calendar/calendar.css);
+@import url(../blocks/calendar/__day/calendar__day.css);
+@import url(../blocks/calendar/__day/_month/calendat__day_month.css);
+@import url(../blocks/calendar/__day/_name/calendar__day_name.css);
+@import url(../blocks/calendar/__day/_day/calendar__day_day.css);
+@import url(../blocks/calendar/__day/_year/calendar__day_year.css);

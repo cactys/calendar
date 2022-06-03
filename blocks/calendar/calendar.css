@@ -1,0 +1,8 @@
+.calendar {
+  position: relative;
+  width: 200px;
+  background: #fff;
+  text-align: center;
+  border-radius: 8px;
+  overflow: hidden;
+}
