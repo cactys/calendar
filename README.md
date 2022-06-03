@@ -1,5 +1,5 @@
 # calendar #
 
-<img src="./images/README/calendar.jgp" />
+<img src="./images/README/calendar.JPG" />
 
 [GH-page](https://cactys.github.io/calendar/)
